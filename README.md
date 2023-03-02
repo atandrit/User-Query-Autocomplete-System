@@ -1,5 +1,5 @@
 
-# User-Query-Autocomplete-System
+# User Query Autocomplete System
 
 The goal of this project is to develop a simple C++ program that can store a list of words from a dictionary file using a trie data structure. Once the words are loaded into the trie, the program can use it to provide an auto-complete functionality, suggesting a list of possible completions for a given query prefix.
 
